@@ -1,0 +1,1 @@
+import '@/ai/flows/resource-optimization-suggestions.ts';
